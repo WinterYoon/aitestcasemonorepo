@@ -1,5 +1,5 @@
 ## Team
-|<img src="https://avatars.githubusercontent.com/u/60104321?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/84803633?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/60104321?v=4" width="50" height="50"/>|<img src="https://avatars.githubusercontent.com/u/84803633?v=4" width="50" height="50"/>|
 |:-:|:-:|
 |Lina<br/>[@hyen43](https://github.com/hyen43)|YoonAh<br/>[@WinterYoon](https://github.com/WinterYoon)|
 

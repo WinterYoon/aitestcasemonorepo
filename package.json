@@ -1,0 +1,23 @@
+{
+  "name": "AIautoTestCase",
+  "private": true,
+  "workspaces": [
+    "front",
+    "server",
+    "test-case-ai-mvp"
+  ],
+  "devDependencies": {
+    "turbo": "^1.13.4"
+  },
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "test": "turbo run test"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "next": "^15.4.4",
+    "vite": "^7.0.6"
+  }
+}
